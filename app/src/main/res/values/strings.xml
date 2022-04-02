@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">yeLz Store</string>
+    <string name="lanjut">Berikutnya</string>
+    <string name="namaKatalog">Kaos</string>
+    <string name="deskTextView">Deskripsi</string>
+    <string name="judul">Masukkan Ukuran Lebar Dada dan Panjang Dada</string>
+    <string name="lebarDada">Lebar Dada :</string>
+    <string name="panjangDada">Panjang Dada :</string>
+    <string name="jenisKelamin">Jenis Kelamin :</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Temukan Ukuran</string>
+    <string name="hasilUkuran">Ukuran :  %1$s</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="xl">XL</string>
+    <string name="xxl">XXL</string>
+    <string name="xxxl">XXXL</string>
+</resources>
